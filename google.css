@@ -1,0 +1,91 @@
+
+.link{
+    margin-left: 83%;
+    font-size: 20px;
+    padding: 0%
+}
+.a{
+    margin: 10px;
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+.btn{
+    margin: 10px;
+    background: #f2f2f2;
+    width: 30%;
+    font-size: 20px
+}
+.btn1{
+    background: #f2f2f2;
+    margin: 25px;
+    font-size: 25px;
+}
+.btn2{
+    background: #f2f2f2;
+     margin-left: 30px;
+    font-size: 25px;
+}
+.icon{
+    margin-top: 150px;
+}
+.i{
+     
+    
+}
+.footer-right{
+    background: #e5e5e5;
+    margin-left: 70%;
+     
+}
+.footer-left{
+    font-size: 15px;
+}
+.country{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.langs{
+    margin-top: 130px;
+    text-decoration: none;
+    
+    
+}
+.footer{
+    margin-top: 100px;
+    width: 97.5%;
+    background: #e5e5e5;
+    
+}
+.second{
+    font-size: 40px;
+    width: 125;
+    height: 36;
+}
+
+
+
+
+.india {
+}
+
+.india3 {
+    color: darkgreen
+}
+
+.india2 {
+    color: white;
+}
+
+.india1 {
+    color: orangered;
+}
+
+.last {
+    background-color: yellow;
+    width: 10px;
+}
+.input{
+    font-size: 30px;
+    margin-left: 18px;
+}
